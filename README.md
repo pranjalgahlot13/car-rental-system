@@ -1,0 +1,1 @@
+A Python program that simulates a car rental service. Users choose a car and number of rental days, and the program calculates the total cost. Built to practice conditionals, dictionaries, and functions with pricing calculations.
